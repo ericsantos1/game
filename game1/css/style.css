@@ -1,0 +1,30 @@
+
+/*@@@@ style do tabuleiro*/
+	   		
+#texto-tabuleiro{
+	font-size:35px; font-family:verdana; color:#333;
+	margin-bottom:20px;
+}
+
+#tabuleiro{
+	margin-top:50px;
+}
+
+input[type='text']{
+	padding:20px;
+	font-size:25px; font-align:center; font-family:verdana; color:#333;
+	text-align:center;
+	box-shadow:inset #ccc 0px 0px 9px;
+	cursor:pointer;
+}
+
+#jogo-x{
+	color:#06C;
+}
+#jogo-o{
+	color:#F00;
+}
+	   			   		
+	
+	   		
+	   	
